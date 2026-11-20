@@ -1,0 +1,6 @@
+{
+  "name": "Clavier Atelier",
+  "description": "An expressive acoustic piano and auto-piano studio with falling-note roll visualization, polyphonic Web Audio synthesis, MIDI playback, and guided practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
